@@ -6,21 +6,20 @@ var website_name = "SK HASIB.COM";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "〆☕ Hävè ã Rëläx ☕〆";
+var telegram_channel_link = "https://t.me/developerskhasib206";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "〆☕ Hävè ã Rëläx ☕〆";
+var telegram_group_link = "https://t.me/developerskhasib206";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "〆☕ Hävè ã Rëläx ☕〆";
+var youtube_channel_link = "https://t.me/developerskhasib206";
 
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
-১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ok ok ♥️`;
+১০০০০`;
